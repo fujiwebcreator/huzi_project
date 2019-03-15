@@ -1,0 +1,25 @@
+@charset "UTF-8";
+.order-card-block{
+    padding: 0 2%;
+    justify-content: space-between;
+}
+.order-card{
+    margin-bottom: 5px;
+    height: 80px;
+    width: 49%;
+    border: solid 1px #C9C9CB;
+}
+.order-icon{
+    height: 62px;
+    text-align: center;
+}
+.order-icon img{
+    width: 62px;
+}
+
+.order-txt{
+    height: 18px;
+    text-align: center;
+    font-size: 12px;
+}
+
